@@ -13,3 +13,5 @@ RoxygenNote: 7.1.2
 Imports: 
     magrittr,
     minnccaccess
+URL: https://github.com/hktosun/minnccdashboard
+BugReports: https://github.com/hktosun/minnccdashboard/issues
